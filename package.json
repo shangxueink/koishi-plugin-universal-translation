@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-universal-translation",
-  "description": "",
-  "version": "0.0.1",
+  "description": "通用翻译，支持多语种翻译...开箱即用。返回速度提升。[使用方法](https://www.npmjs.com/package/koishi-plugin-universal-translation)。翻译速度和质量还行，好像比百度翻译好欸？",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
